@@ -1,4 +1,4 @@
 ## Demo
 this is readme file
-learning basics of git and github
+learning basics of git.
 Gaining some more knowledge about all this technology
